@@ -6,6 +6,7 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\yuvib\git\DockerTest"/>
 			<item value="C:\Users\yuvib\git\repository2\dockervalidation"/>
 		</list>
 	</section>
@@ -28,5 +29,9 @@
 		<item key="DIALOG_Y_ORIGIN" value="269"/>
 	</section>
 	<section name="NewWizardAction">
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
 	</section>
 </section>
